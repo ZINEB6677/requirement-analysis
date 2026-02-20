@@ -15,7 +15,7 @@ Requirement Analysis is the process of gathering, analyzing, and documenting wha
 - Document in Software Requirement Specification (SRS)
 - Validate with stakeholders
 
-## Importance:
+## Why is Requirement Analysis Important?
 - **Saves money** - Fixing errors early is cheaper
 - **Clear direction** - Developers know what to build
 - **Prevents scope creep** - Defines project boundaries
